@@ -1,0 +1,3 @@
+book_ID,ID,number,createdAt,createdBy,modifiedAt,modifiedBy
+61951257-8292-49bb-83c4-c0afdb10051f,30059958-758b-482e-a0e8-82b71894a116,85,2003-05-06T00:00:00.000Z,createdBy.hwaeu@example.net,2008-06-13T00:00:00.000Z,modifiedBy.hwaeu@example.org
+61951257-8292-49bb-83c4-c0afdb10051f,30059959-a9d2-405f-ba86-e20c8513df13,63,2004-02-22T00:00:00.000Z,createdBy.hwaev@example.org,2021-09-02T00:00:00.000Z,modifiedBy.hwaev@example.net
