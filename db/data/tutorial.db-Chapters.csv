@@ -1,3 +1,3 @@
-book_ID,ID,number,createdAt,createdBy,modifiedAt,modifiedBy
-34931653-acab-4081-8ba5-3b23a391ef78,19504493-ff3a-4baa-a747-2c58a58e8d4a,51,2021-01-09T00:00:00.000Z,createdBy.bm1rh@example.net,2016-12-22T00:00:00.000Z,modifiedBy.bm1rh@example.org
-34931653-acab-4081-8ba5-3b23a391ef78,19504494-d35f-4def-bf9b-4f516638d1fd,33,2002-08-10T00:00:00.000Z,createdBy.bm1ri@example.net,2010-03-07T00:00:00.000Z,modifiedBy.bm1ri@example.net
+book_ID,ID,number,title,pages,createdAt,createdBy,modifiedAt,modifiedBy
+41340198-68dc-40a3-b8be-f5acf9a2cdbd,83303995-0c83-411e-bdfb-cd6ac8fd99b4,49,title-8330399,31,2014-02-07T00:00:00.000Z,createdBy.4yjrz@example.org,2011-10-27T00:00:00.000Z,modifiedBy.4yjrz@example.org
+41340198-68dc-40a3-b8be-f5acf9a2cdbd,8330400b-a189-4ffe-8806-520211b6e201,41,title-8330400,11,2019-09-02T00:00:00.000Z,createdBy.4yjs0@example.org,2003-06-18T00:00:00.000Z,modifiedBy.4yjs0@example.com
