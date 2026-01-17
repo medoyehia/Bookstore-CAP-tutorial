@@ -92,6 +92,11 @@
           "pattern": "Books({key}):?query:",
           "name": "BooksObjectPage",
           "target": "BooksObjectPage"
+        },
+        {
+          "name": "Books_ChaptersObjectPage",
+          "pattern": "Books({key})/Chapters({ChaptersKey}):?query:",
+          "target": "Books_ChaptersObjectPage"
         }
       ],
       "targets": {
@@ -129,7 +134,25 @@
             "settings": {
               "editableHeaderContent": false,
               "contextPath": "/Books",
-              "sectionLayout": "Page"
+              "sectionLayout": "Page",
+              "navigation": {
+                "Chapters": {
+                  "detail": {
+                    "route": "Books_ChaptersObjectPage"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Books_ChaptersObjectPage": {
+          "type": "Component",
+          "id": "Books_ChaptersObjectPage",
+          "name": "sap.fe.templates.ObjectPage",
+          "options": {
+            "settings": {
+              "navigation": {},
+              "contextPath": "/Books/Chapters"
             }
           }
         }

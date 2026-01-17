@@ -1,11 +1,11 @@
-ID,title,author_ID,genre,publishedAt,pages,price,createdAt,createdBy,modifiedAt,modifiedBy
-4134010e-66c4-4139-af49-b559dc4955fa,title-4134010,23375645-1cbb-486a-85b1-9bde99d9a19e,genre-4134010,2012-02-29,2,9788829.74,2016-09-22T00:00:00.000Z,createdBy.2gltm@example.com,2016-05-07T00:00:00.000Z,modifiedBy.2gltm@example.com
-41340115-f65e-424b-b2fa-b93801fde00b,title-4134011,23375645-1cbb-486a-85b1-9bde99d9a19e,genre-4134011,2001-02-05,27,527591.27,2009-05-05T00:00:00.000Z,createdBy.2gltn@example.org,2019-02-24T00:00:00.000Z,modifiedBy.2gltn@example.com
-4134012d-5c81-46a1-a120-e130279a43ec,title-4134012,23375645-1cbb-486a-85b1-9bde99d9a19e,genre-4134012,2020-07-12,31,6908522.03,2012-07-19T00:00:00.000Z,createdBy.2glto@example.com,2021-03-06T00:00:00.000Z,modifiedBy.2glto@example.org
-41340138-57fd-4cc1-9fa5-c70b813c20c4,title-4134013,23375645-1cbb-486a-85b1-9bde99d9a19e,genre-4134013,2023-01-27,47,6146841.04,2005-01-27T00:00:00.000Z,createdBy.2gltp@example.org,2003-07-19T00:00:00.000Z,modifiedBy.2gltp@example.net
-41340146-55d8-4bac-9ce9-d3a77326f56a,title-4134014,23375645-1cbb-486a-85b1-9bde99d9a19e,genre-4134014,2000-07-06,92,4439979.27,2005-08-14T00:00:00.000Z,createdBy.2gltq@example.com,2009-01-19T00:00:00.000Z,modifiedBy.2gltq@example.net
-41340158-c0e4-4e1c-8ce3-87387a5cc94e,title-4134015,23375645-1cbb-486a-85b1-9bde99d9a19e,genre-4134015,2012-10-15,68,4814763.79,2009-06-30T00:00:00.000Z,createdBy.2gltr@example.net,2019-06-14T00:00:00.000Z,modifiedBy.2gltr@example.org
-4134016d-a029-4dec-8996-1ea00261805e,title-4134016,23375645-1cbb-486a-85b1-9bde99d9a19e,genre-4134016,2007-10-17,53,5453427.09,2006-05-17T00:00:00.000Z,createdBy.2glts@example.com,2015-10-08T00:00:00.000Z,modifiedBy.2glts@example.com
-4134017e-5c3a-42a7-8783-5ce4f025d143,title-4134017,23375645-1cbb-486a-85b1-9bde99d9a19e,genre-4134017,2007-06-01,38,9953180.54,2000-07-20T00:00:00.000Z,createdBy.2gltt@example.org,2020-06-19T00:00:00.000Z,modifiedBy.2gltt@example.org
-41340182-d3ba-428b-82cd-99d1a8342b11,title-4134018,23375645-1cbb-486a-85b1-9bde99d9a19e,genre-4134018,2023-10-22,68,2001964.7,2012-05-16T00:00:00.000Z,createdBy.2gltu@example.org,2007-05-04T00:00:00.000Z,modifiedBy.2gltu@example.net
-41340198-68dc-40a3-b8be-f5acf9a2cdbd,title-4134019,23375645-1cbb-486a-85b1-9bde99d9a19e,genre-4134019,2006-08-13,68,3180633.3,2006-09-17T00:00:00.000Z,createdBy.2gltv@example.org,2022-10-27T00:00:00.000Z,modifiedBy.2gltv@example.net
+ID,title,author_ID,genre,publishedAt,pages,price,stock,status_code,createdAt,createdBy,modifiedAt,modifiedBy
+11111111-1111-1111-1111-111111111111,Clean Code,a1111111-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Programming,2008-08-01,464,39.99,120,A,2022-03-11T00:00:00.000Z,admin,2008-06-30T00:00:00.000Z,editor
+22222222-2222-2222-2222-222222222222,Domain-Driven Design,a2222222-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Software Engineering,2003-09-01,560,49.99,80,L,2002-05-24T00:00:00.000Z,admin,2008-10-04T00:00:00.000Z,editor
+33333333-3333-3333-3333-333333333333,Refactoring,a3333333-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Programming,1999-07-08,431,45.00,60,U,2003-11-13T00:00:00.000Z,admin,2004-02-08T00:00:00.000Z,editor
+44444444-4444-4444-4444-444444444444,Test-Driven Development,a3333333-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Programming,2002-05-01,240,35.00,40,A,2006-11-23T00:00:00.000Z,admin,2012-05-20T00:00:00.000Z,editor
+55555555-5555-5555-5555-555555555555,Effective Java,a1111111-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Programming,2008-05-28,416,50.00,100,L,2007-11-19T00:00:00.000Z,admin,2023-10-13T00:00:00.000Z,editor
+66666666-6666-6666-6666-666666666666,The Pragmatic Programmer,a2222222-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Programming,1999-10-30,352,42.00,70,U,2012-08-23T00:00:00.000Z,admin,2018-06-27T00:00:00.000Z,editor
+77777777-7777-7777-7777-777777777777,The Pragmatic Programmer (2nd Ed.),a2222222-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Programming,2019-09-13,352,48.00,90,A,2020-10-05T00:00:00.000Z,admin,2009-01-14T00:00:00.000Z,editor
+88888888-8888-8888-8888-888888888888,Code Complete,a3333333-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Programming,2004-06-09,960,55.00,150,L,2012-08-13T00:00:00.000Z,admin,2017-02-25T00:00:00.000Z,editor
+99999999-9999-9999-9999-999999999999,Object-Oriented Analysis and Design,a1111111-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Software Engineering,1994-01-01,500,47.00,50,U,2012-12-29T00:00:00.000Z,admin,2019-08-24T00:00:00.000Z,editor
+10101010-1010-1010-1010-101010101010,The C++ Programming Language,a3333333-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Programming,2013-05-19,1366,65.00,200,A,2020-04-01T00:00:00.000Z,admin,2002-07-22T00:00:00.000Z,editor
